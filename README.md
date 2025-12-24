@@ -34,7 +34,7 @@ Hey! I'm **Vian**, a 17-year-old **Vibe Coders** from Indonesia who loves buildi
 
 <div align="center">
 
-![Backend](https://skillicons.dev/icons?i=php,nodejs,express,nestjs,postgres,supabase,mysql,sqlite&perline=9)
+![Backend](https://skillicons.dev/icons?i=php,nodejs,express,golang,nestjs,postgres,supabase,mysql,sqlite&perline=9)
 
 </div>
 
@@ -52,12 +52,13 @@ Hey! I'm **Vian**, a 17-year-old **Vibe Coders** from Indonesia who loves buildi
 
 ## 🌟 Highlight Projects
 
-| Project                                                                 | Description                                | Tech Stack                                   |
-| ----------------------------------------------------------------------- | -------------------------------------------| -------------------------------------------- |
-| [**Westhom**](https://westhom.id)                                       | Property listing platform with modern UI   | React, Vite, Typescript, Tailwind, Go, MySQL |
-| [**Hanum Farma POS**](https://github.com/vianlearns/POS-Apotek/releases)| Desktop POS for pharmacy                   | Electron, React, SQLite                      |
-| [**Yayasan Texmaco**](https://yayasanppittexmaco.or.id/)                | Texmaco Foundation website with 3 language | PHP, AJAX, HTML, CSS, MySQL                  |
-| [**Maru Creative Agency**](https://marucreative.my.id)                  | Maru Creative company profile              | React, vite, typescript, Express, MySQL      |
+| Project                                                                 | Description                                  | Tech Stack                                   |
+| ----------------------------------------------------------------------- | ---------------------------------------------| -------------------------------------------- |
+| [**Westhom**](https://westhom.id)                                       | Property listing platform with modern UI     | React, Vite, Typescript, Tailwind, Go, MySQL |
+| [**Hanum Farma POS**](https://github.com/vianlearns/POS-Apotek/releases)| Desktop POS for pharmacy                     | Electron, React, SQLite                      |
+| [**Yayasan Texmaco**](https://yayasanppittexmaco.or.id/)                | Texmaco Foundation website with 3 language   | PHP, AJAX, HTML, CSS, MySQL                  |
+| [**Maru Creative Agency**](https://marucreative.my.id)                  | Maru Creative company profile                | React, vite, typescript, PHP, MySQL          |
+| [**Dinus Archive**](https://arsip.biaks.my.id)                          | Sistem manajemen arsip UDINUS (Biro Akademik)| React, vite, typescript, Express, MySQL      |
 
 ---
 
@@ -92,10 +93,11 @@ const vian = {
 
 <div align="center">
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.id/vivianprabaswara)
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:vianlearns@gmail.com)
-[![instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/vianlearns)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/vianlearns)
+[![Website](https://img.shields.io/badge/Website-Portfolio-2E9EF7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vivianprabaswara.my.id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vivian%20Prabaswara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.id/vivianprabaswara)
+[![Email](https://img.shields.io/badge/Email-vianlearns%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vianlearns@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@vianlearns-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vianlearns)
+[![Twitter](https://img.shields.io/badge/X-@vianlearns-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/vianlearns)
 
 </div>
 
